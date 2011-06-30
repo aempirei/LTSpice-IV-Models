@@ -1,0 +1,48 @@
+LT Spice IV Models
+
+Copyright(c) 2011 by Christopher Abad (unless otherwise noted)
+20 GOTO 10 | aempirei@gmail.com
+
+Certain models Copyright their respective authors.
+Futher copyright information may be found in the
+specific model files.
+
+  web  http://github.com/aempirei/LTSpice-IV-Models
+  git  git@github.com/aempirei/LTSpice-IV-Models.git
+  blog http://blog.twentygoto10.com/
+
+This is a collection of LTSpice IV models for various parts that I have created,
+ported, edited, and/or organized. They generally reflect parts that I personally
+use, and otherwise have no other clear theme. If it happens that I have a model
+that you may need, then that is why I am providing this resource to you. Since
+LTSpice is by Linear Technologies their default models reflects their parts
+catalog and thus tends to be missing most everything else you may use by other
+vendors. It is also somewhat difficult to find models specifically for LTSpice
+but often times can be found for other Spice derivatives. Here is a parts
+listing of the models I offer in this repository:
+
+NPN Bipolar Junction Transistors
+
+  BD139
+  MJE3055T
+  TIP31A
+  TIP35A
+
+PNP Bipolar Junction Transistors
+
+  BD140
+  MJE2955T
+  TIP32A
+  TIP36A
+
+Triode Vacuum Tubes
+
+  12AU7/ECC82
+  12AX7/ECC83
+  6BQ5/EL84
+
+Operational Amplifiers
+
+  OPA132
+  TLE2071
+
