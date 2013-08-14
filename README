@@ -8,8 +8,7 @@ Futher copyright information may be found in the
 specific model files.
 
   web  http://github.com/aempirei/LTSpice-IV-Models
-  git  git@github.com/aempirei/LTSpice-IV-Models.git
-  blog http://blog.twentygoto10.com/
+  git  git@github.com:aempirei/LTSpice-IV-Models.git
 
 This is a collection of LTSpice IV models for various parts that I have created,
 ported, edited, and/or organized. They generally reflect parts that I personally
